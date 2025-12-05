@@ -10,6 +10,7 @@ This Python script analyzes the similarity between multiple DOCX and RTF files u
      
 **Install dependencies**
    pip install -r requirements.txt
+   pip install PyPDF2
 
 **Run the script**
    python main.py
